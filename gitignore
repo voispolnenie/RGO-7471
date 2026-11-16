@@ -1,0 +1,22 @@
+# Данные и результаты
+data.json
+changes.json
+changes.html
+district_fixes.json
+Наказы/
+diag/
+Логи/
+media/
+*.db
+
+# Бэкапы
+*.bak
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Система
+.DS_Store
